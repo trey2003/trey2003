@@ -1,2 +1,2 @@
-- ✌🏾 My name is Trey Harris and I'm 18 years old.
-- I’m interested in software engineering.
+- Trey Harris
+- 18 years old
